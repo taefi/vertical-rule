@@ -1,0 +1,10 @@
+
+.vertical-rule {
+    width: 1px;
+    min-width: 1px;
+    max-width: 1px;
+    background-color: var(--lumo-contrast-10pct);
+    padding: 0;
+    border: 0;
+    margin: 0;
+}

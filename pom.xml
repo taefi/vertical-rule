@@ -7,8 +7,8 @@
     <groupId>org.vaadin.addons.taefi</groupId>
     <artifactId>vertical-rule</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>Add-on for Vaadin</name>
-    <description>Vertical Rule</description>
+    <name>Vr - Vertical Rule</name>
+    <description>Vr is a vertical counterpart for Hr component.</description>
 
     <properties>
         <vaadin.version>23.3.0</vaadin.version>
@@ -107,7 +107,7 @@
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
-            <version>3.8.1</version>
+            <version>5.3.1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

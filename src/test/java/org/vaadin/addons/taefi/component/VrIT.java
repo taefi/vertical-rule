@@ -9,7 +9,7 @@ import org.junit.Test;
 public class VrIT extends AbstractViewTest {
 
     @Test
-    public void addonTextIsRendered() {
+    public void vrIsRenderedProperly() {
         DivElement shortVr = $(DivElement.class).id("short-vr");
         Assert.assertNotNull(shortVr);
         Assert.assertEquals("vertical-rule", shortVr.getClassNames().iterator().next());
